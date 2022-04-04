@@ -1,7 +1,8 @@
 {
-    profile: [
+    "profile": [
         {
-            agents: ["0010210"]
+            "agents": ["0010210"]            
         }        
-    ]    
+    ]
+    
 }
